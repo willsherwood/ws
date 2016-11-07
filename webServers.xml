@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83d3a3f9-7a0a-4da0-bc0d-b76e0e861df0" name="Copy of project-level server 'web'" url="http://mydi.me">
+        <fileTransfer host="mydi.me" port="22" rootFolder="/home/will" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c6642319-a3c9-4927-9e74-e48e36b9b493" name="Copy of project-level server 'web' (1)" url="http://mydi.me">
+        <fileTransfer host="mydi.me" port="22" rootFolder="/home/will" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5a2d49fc-9bf2-41c7-9065-0837cb080d1c" name="web" url="http://mydi.me">
+        <fileTransfer host="mydi.me" port="22" rootFolder="/home/will" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
